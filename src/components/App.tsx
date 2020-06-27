@@ -359,7 +359,7 @@ class App extends React.Component<{}, undefined> {
 
 				<div className="col-lg-6 col-md-6 header-left">
 					<div className="">
-						<img className="img-fluid w-100" src="/images/banner/banner-img.jpg" alt=""/>
+						<img className="img-fluid w-100" src="images/banner/banner-img.jpg" alt=""/>
 					</div>
 					<div className="video-popup d-flex align-items-center">
 						<a className="play-video video-play-button animate" href="https://www.youtube.com/watch?v=9TFx7TcFuoI" data-animate="zoomIn"
@@ -792,7 +792,7 @@ and developing User interface.
 	
 					<div className="col-lg-6 col-md-6 header-left">
 						<div className="">
-							<img className="img-fluid w-100" src="/images/banner/graphic.jpg" alt=""/>
+							<img className="img-fluid w-100" src="images/banner/graphic.jpg" alt=""/>
 						</div>
 						<div className="video-popup d-flex align-items-center">
 							<a className="play-video video-play-button animate" href="https://www.youtube.com/watch?v=9TFx7TcFuoI" data-animate="zoomIn"
@@ -841,7 +841,7 @@ and developing User interface.
 	
 					<div className="col-lg-6 col-md-6 header-left">
 						<div className="">
-							<img className="img-fluid w-100" src="/images/banner/design4.gif" alt=""/>
+							<img className="img-fluid w-100" src="images/banner/design4.gif" alt=""/>
 						</div>
 						<div className="video-popup d-flex align-items-center">
 							<a className="play-video video-play-button animate" href="https://www.youtube.com/watch?v=9TFx7TcFuoI" data-animate="zoomIn"
@@ -890,7 +890,7 @@ and developing User interface.
 	
 					<div className="col-lg-6 col-md-6 header-left">
 						<div className="">
-							<img className="img-fluid w-100" src="/images/banner/photohraphy.jpg" alt=""/>
+							<img className="img-fluid w-100" src="images/banner/photohraphy.jpg" alt=""/>
 						</div>
 						<div className="video-popup d-flex align-items-center">
 							<a className="play-video video-play-button animate" href="https://www.youtube.com/watch?v=9TFx7TcFuoI" data-animate="zoomIn"
@@ -1055,7 +1055,7 @@ and developing User interface.
 
                 <div className="col-lg-6 col-md-6 header-left">
                     <div className="">
-                        <img className="img-fluid w-100" src="/images/banner/banner-img1.jpg" alt=""/>
+                        <img className="img-fluid w-100" src="images/banner/banner-img1.jpg" alt=""/>
                     </div>
                 </div>
             </div>
