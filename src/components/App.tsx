@@ -1151,7 +1151,7 @@ and developing User interface.
 	<button className="menu-button"><span>Menu</span></button>
 	<div className="logo">
 			<a href="index.html">
-				<img src="/images/logo.png" alt=""/>
+				<img src="images/banner/logo.png" alt=""/>
 			</a>
 		</div>
   </React.Fragment>
