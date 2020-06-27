@@ -352,7 +352,7 @@ class App extends React.Component<{}, undefined> {
 					
 					<a href=""  className="main_btn openportfolio" >
 						My portfolio
-						<img src="/images/next.png" alt=""/>
+						<img src="images/banner/next.png" alt=""/>
 					</a>
 				
 				</div>
@@ -383,9 +383,9 @@ class App extends React.Component<{}, undefined> {
 			<div className="row align-items-center justify-content-center">
 				<div className="col-lg-5 offset-lg-1">
 					<div className="left-content">
-						<img className="img1 img-fluid" src="/images/popular/img1.jpg" alt=""/>
-						<img className="img2 img-fluid" src="/images/popular/img2.png" alt=""/>
-						<img className="img3 img-fluid" src="/images/popular/img3.jpg" alt=""/>
+						<img className="img1 img-fluid" src="images/banner/img1.jpg" alt=""/>
+						<img className="img2 img-fluid" src="images/banner/img2.png" alt=""/>
+						<img className="img3 img-fluid" src="images/banner/img3.jpg" alt=""/>
 					</div>
 				</div>
 				<div className="col-lg-5 offset-lg-1">
@@ -460,7 +460,7 @@ class App extends React.Component<{}, undefined> {
 			<div className="col-lg-4 col-md-4 col-sm-6">
 					<div className="single-blog">
 						<div className="blog-thumb">
-							<img className="img-fluid" src="/images/blog/h-blog1.jpg" alt=""/>
+							<img className="img-fluid" src="images/banner/h-blog1.jpg" alt=""/>
 						</div>
 						<div className="blog-details">
 							<div className="blog-meta">
@@ -479,7 +479,7 @@ class App extends React.Component<{}, undefined> {
 				<div className="col-lg-4 col-md-4 col-sm-6">
 					<div className="single-blog">
 						<div className="blog-thumb">
-							<img className="img-fluid" src="/images/blog/h-blog1.jpg" alt=""/>
+							<img className="img-fluid" src="images/banner/h-blog1.jpg" alt=""/>
 						</div>
 						<div className="blog-details">
 							<div className="blog-meta">
@@ -592,11 +592,11 @@ and developing User interface.
 					<div className="single-footer-widget mail-chimp">
 						<h6 className="mb-20">Social portfolios</h6>
 						<ul className="instafeed d-flex flex-wrap">
-							<li><a href={'https://www.linkedin.com/in/sithila/'} target="_blank"> <img  src="/images/linkedin.svg" alt=""/> </a></li>
-							<li><a href={'https://www.behance.net/sithila'} target="_blank"> <img src="/images/behance.svg" alt=""/> </a></li>
-							<li><img src="/images/instagram.svg" alt=""/></li>
-							<li><img src="/images/shutterstock.svg" alt=""/></li>
-							<li><img src="/images/facebook.svg" alt=""/></li>
+							<li><a href={'https://www.linkedin.com/in/sithila/'} target="_blank"> <img  src="images/banner/linkedin.svg" alt=""/> </a></li>
+							<li><a href={'https://www.behance.net/sithila'} target="_blank"> <img src="images/banner/behance.svg" alt=""/> </a></li>
+							<li><img src="images/banner/instagram.svg" alt=""/></li>
+							<li><img src="images/banner/shutterstock.svg" alt=""/></li>
+							<li><img src="images/banner/facebook.svg" alt=""/></li>
 							
 						</ul>
 					</div>
@@ -644,42 +644,42 @@ and developing User interface.
   images={
 	[
 		{
-		src: '/images/portfolio1.jpg',
+		src: 'images/banner/portfolio1.jpg',
 		title: 'image title',
 		description: 'image description'
 		},
 		{
-			src: '/images/portfolio2.png',
+			src: 'images/banner/portfolio2.png',
 			title: 'image title',
 			description: 'image description'
 			},
 			{
-				src: '/images/design1.jpg',
+				src: 'images/banner/design1.jpg',
 				title: 'image title',
 				description: 'image description'
 				},
 				{
-					src: '/images/design3.png',
+					src: 'images/banner/design3.png',
 					title: 'image title',
 					description: 'image description'
 					},
 					{
-						src: '/images/design4.gif',
+						src: 'images/banner/design4.gif',
 						title: 'image title',
 						description: 'image description'
 						},
 						{
-							src: '/images/design5.jpg',
+							src: 'images/banner/design5.jpg',
 							title: 'image title',
 							description: 'image description'
 							},
 							{
-								src: '/images/design2.gif',
+								src: 'images/banner/design2.gif',
 								title: 'image title',
 								description: 'image description'
 								},
 								{
-									src: '/images/design6.jpg',
+									src: 'images/banner/design6.jpg',
 									title: 'image title',
 									description: 'image description'
 									}
@@ -786,7 +786,7 @@ and developing User interface.
 						
 						<a href="#" className="main_btn openportfolio">
 							My portfolio
-							<img src="/images/next.png" alt=""/>
+							<img src="images/banner/next.png" alt=""/>
 						</a>
 					</div>
 	
@@ -835,7 +835,7 @@ and developing User interface.
 						
 						<a href="#" className="main_btn openportfolio">
 							My portfolio
-							<img src="/images/next.png" alt=""/>
+							<img src="images/banner/next.png" alt=""/>
 						</a>
 					</div>
 	
@@ -884,7 +884,7 @@ and developing User interface.
 						
 						<a href="#" className="main_btn openphotography">
 							My portfolio
-							<img src="/images/next.png" alt=""/>
+							<img src="images/banner/next.png" alt=""/>
 						</a>
 					</div>
 	
@@ -937,42 +937,42 @@ and developing User interface.
 			description: 'image description'
 			},
 			{
-				src: '/images/photography/2.jpg',
+				src: 'images/banner/photography/2.jpg',
 				title: 'image title',
 				description: 'image description'
 				},
 				{
-					src: '/images/photography/3.jpg',
+					src: 'images/banner/photography/3.jpg',
 					title: 'image title',
 					description: 'image description'
 					},
 					{
-						src: '/images/photography/4.jpg',
+						src: 'images/banner/photography/4.jpg',
 						title: 'image title',
 						description: 'image description'
 						},
 						{
-							src: '/images/photography/5.jpg',
+							src: 'images/banner/photography/5.jpg',
 							title: 'image title',
 							description: 'image description'
 							},
 							{
-								src: '/images/photography/6.jpg',
+								src: 'images/banner/photography/6.jpg',
 								title: 'image title',
 								description: 'image description'
 								},
 								{
-									src: '/images/photography/7.jpg',
+									src: 'images/banner/photography/7.jpg',
 									title: 'image title',
 									description: 'image description'
 									},
 									{
-										src: '/images/photography/8.jpg',
+										src: 'images/banner/photography/8.jpg',
 										title: 'image title',
 										description: 'image description'
 										},
 										{
-											src: '/images/photography/9.jpg',
+											src: 'images/banner/photography/9.jpg',
 											title: 'image title',
 											description: 'image description'
 											}
@@ -1014,7 +1014,7 @@ and developing User interface.
 					"When people ask me why I don't eat meat or any other animal products, I say, 'Because they are unhealthy and they are the product of a violent and inhumane industry.'" &mdash;
 				</p>
 			</header>
-			<img className="poster" src="/images/6.jpg" alt="img06" />
+			<img className="poster" src="images/banner/6.jpg" alt="img06" />
 		</div>
 		<div className="page" id="page-blog">
 			<header className="bp-header cf">
