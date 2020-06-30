@@ -530,7 +530,7 @@ class App extends React.Component<{}, undefined> {
 
 
 
-	<footer className="footer-area pb-5">
+	<footer className="footer-area pb-5" style="#a21b1f url(images/acd9a0434340d7154067bd83cc9caad4.jpg) repeat">
 		<div className="container">
 			<div className="row footer-top">
 				<div className="col-lg-3  col-md-6 col-sm-6">
